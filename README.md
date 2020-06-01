@@ -2,7 +2,7 @@
 
 My take on #100DaysOfCode
 
-## Day 1
+## Day 1 (June 1, 2020)
 
 Dev.to style profile header
 
