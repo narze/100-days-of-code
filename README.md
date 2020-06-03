@@ -28,3 +28,18 @@ Things I learned :
 - Netlify (Connect Github then the web is deployed automatically every git pushes)
 
 Link : https://coremenu-th-demo.netlify.app/
+
+## Day 3 (June 2, 2020)
+
+BSP.js (Binary Space Partitioning)
+
+![imgur](https://i.imgur.com/bC0JtVo.png)
+
+Thoughts: 
+I am making BSP layout for [Phoenix](https://github.com/kasper/phoenix). Its configuration is in Javascript so I can move the code once it's ready. This project will be a long one I think.
+
+Things I learned :
+- Creating DOM and move around with Javascript
+- `box-sizing: border-box;`
+
+Link : https://codepen.io/narze/pen/QWyWMYB
