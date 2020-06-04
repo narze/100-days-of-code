@@ -29,7 +29,7 @@ Things I learned :
 
 Link : https://coremenu-th-demo.netlify.app/
 
-## Day 3 (June 2, 2020)
+## Day 3 (June 3, 2020)
 
 BSP.js (Binary Space Partitioning)
 
@@ -43,3 +43,19 @@ Things I learned :
 - `box-sizing: border-box;`
 
 Link : https://codepen.io/narze/pen/QWyWMYB
+
+## Day 4 (June 4, 2020)
+
+MeasureMeet : Measure your meeting time in man-minutes
+
+https://measuremeet.netlify.app/ ([Source](https://github.com/narze/measuremeet))
+
+![Imgur](https://i.imgur.com/PVKXR8t.png)
+
+Thoughts:
+The first day I'm back at office so I don't have much time as the first 3 days. This idea pops up while I'm on the way to work! (I hate pointless meetings.)
+
+Things I learned :
+- [Vue-cli](https://cli.vuejs.org/), and how confusing Webpack is.
+- Test Driven Development with Mocha & Chai.
+- Deployment via Netlify with simple settings https://cli.vuejs.org/guide/deployment.html#netlify.
