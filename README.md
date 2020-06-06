@@ -80,7 +80,11 @@ Put Day 5 project (CSS Ribbon) into npm
 Thoughts :
 To make it easier to include the ribbon in my next days I published into npm in order to use it via CDNs like unpkg or jsdelivr.
 
+Link : https://github.com/narze/100-days-of-code-ribbon
+
 Things I learned :
 - Publishing `100-days-of-code-ribbon` to npm is not allowed and is tagged as spam.
 - I accidentally published & unpublished `hundred-days-of-code-ribbon` and the package name is blocked for 24 hours, so I have to rename it to `hundred-days-of-code-css-ribbon`.
 - Just updating the readme file needs to bump the package's version :(
+
+Link : https://www.npmjs.com/package/hundred-days-of-code-css-ribbon
