@@ -88,3 +88,19 @@ Things I learned :
 - Just updating the readme file needs to bump the package's version :(
 
 Link : https://www.npmjs.com/package/hundred-days-of-code-css-ribbon
+
+## Day 7 (June 8, 2020)
+
+"Yesion" : A clone of Notion homepage
+
+![Imgur](https://i.imgur.com/aKdqQAR.jpg)
+
+Thoughts :
+Creating navbar without CSS framework or flexbox is really hard for me, especially with logo image & both left and right floats.
+
+Things I learned :
+
+- Floating divs
+- Centering divs vertically
+
+Link : https://narze.github.io/100-days-of-code/projects/07-Yesion/index.html
