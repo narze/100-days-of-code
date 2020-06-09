@@ -61,3 +61,17 @@ ul.nav-right {
 .fa-sm {
   font-size: 0.75em;
 }
+
+.dropdown {
+  float: left;
+  overflow: hidden;
+}
+
+.dropdown-content {
+  display: none;
+  position: absolute;
+}
+
+.dropdown:hover .dropdown-content {
+  display: block;
+}
