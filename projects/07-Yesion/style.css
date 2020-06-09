@@ -70,8 +70,38 @@ ul.nav-right {
 .dropdown-content {
   display: none;
   position: absolute;
+  background-color: #f9f9f9;
+  width: 200px;
+  box-shadow: 0px 0px 16px 0px rgba(0,0,0,0.2);
+  z-index: 1;
 }
 
 .dropdown:hover .dropdown-content {
   display: block;
+  padding: 4px 0;
+}
+
+.dropdown-content > div {
+  width: 100%;
+  padding: 0;
+}
+
+.dropdown-content > div > a {
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  display: block;
+}
+
+.dropdown-content a:hover {
+  background-color: lightgray;
+}
+
+.dropdown-content > div > a > div {
+  line-height: 28px;
+  font-weight: 400;
+  font-size: 0.9em;
+  margin: 0;
+  padding: 0 12px;
+  width: 100%;
 }
