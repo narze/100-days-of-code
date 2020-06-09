@@ -6,8 +6,10 @@ body {
 nav {
   position: -webkit-sticky; /* Safari */
   position: sticky;
-  width: 1300px;
+  max-width: 1300px;
   margin: 0 auto;
+  padding-left: 12px;
+  padding-right: 12px;
 }
 
 nav ul {
@@ -54,4 +56,8 @@ ul.nav-right {
   margin-top: 33px;
   margin-left: 10px;
   margin-right: 10px;
+}
+
+.fa-sm {
+  font-size: 0.75em;
 }
