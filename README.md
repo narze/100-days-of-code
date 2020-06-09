@@ -104,3 +104,18 @@ Things I learned :
 - Centering divs vertically
 
 Link : https://narze.github.io/100-days-of-code/projects/07-Yesion/index.html
+
+## Day 8 (June 9, 2020)
+
+Yesion (Cont.) : Add CSS dropdown menu
+
+![Imgur](https://i.imgur.com/Aajsz7l.png)
+
+Thoughts : 
+Embedding div within anchor within div to get the highlight effect I want.
+
+Things I learned :
+
+- Setting CSS rules without `>` sometimes causes unexpected results, maybe that's why having classes are better.
+
+Link : https://narze.github.io/100-days-of-code/projects/07-Yesion/index.html
