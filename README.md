@@ -119,3 +119,14 @@ Things I learned :
 - Setting CSS rules without `>` sometimes causes unexpected results, maybe that's why having classes are better.
 
 Link : https://narze.github.io/100-days-of-code/projects/07-Yesion/index.html
+
+## Day 9 (June 10, 2020)
+
+Try Svelte (https://svelte.dev/)
+
+![Imgur](https://i.imgur.com/WSS7Ids.png)
+
+Thoughts :
+Learn throught Scrimba, both the framework & the web are great.
+
+Link : https://scrimba.com/playlist/pG6X6UG, https://github.com/narze/try/tree/master/svelte
