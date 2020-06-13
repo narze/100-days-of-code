@@ -135,7 +135,7 @@ Link : https://scrimba.com/playlist/pG6X6UG, https://github.com/narze/try/tree/m
 
 Cntr.css - CSS framework for centering things only
 
-![Imgur]([Imgur](https://i.imgur.com/MU8JmOr.png)
+![Imgur](https://i.imgur.com/MU8JmOr.png)
 
 Thoughts : 
 
