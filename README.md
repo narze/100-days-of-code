@@ -130,3 +130,43 @@ Thoughts :
 Learn throught Scrimba, both the framework & the web are great.
 
 Link : https://scrimba.com/playlist/pG6X6UG, https://github.com/narze/try/tree/master/svelte
+
+## Day 10 (June 11, 2020)
+
+Cntr.css - CSS framework for centering things only
+
+![Imgur]([Imgur](https://i.imgur.com/MU8JmOr.png)
+
+Thoughts : 
+
+I hate centering things on CSS, so I made a framework(?) out of them :joy
+
+Link : https://narze.github.io/cntr/
+
+## Day 11 (June 12, 2020)
+
+PokDeng (Thai Poker)
+
+![Imgur](https://i.imgur.com/ukLsWb5.png)
+
+This pen got picked by CodePen team! 
+
+![Imgur](https://i.imgur.com/PJ8MuBA.png)
+
+Thoughts : 
+
+I will use this to teach non-tech colleagues how to code next week, so it should be as simple as possible, and fun!
+
+Link : https://codepen.io/narze/pen/BajKvNO
+
+## Day 12 (June 13, 2020)
+
+BSP.js (Day 3) on [Phoenix] configuration
+
+![Giphy](https://media.giphy.com/media/S9cEt5qYdsRRmcjRkk/giphy.gif)
+
+Thoughts :
+
+Apply BSP.js (from my day 3) to Phoenix.js (https://github.com/kasper/phoenix) configuration
+
+Link : https://github.com/narze/dotfiles/commit/1507bd9cc04e14f0448f2edb836d20d17bbe2e34#diff-53d3035ada7d767c828f55620e2f443a
