@@ -170,3 +170,20 @@ Thoughts :
 Apply BSP.js (from my day 3) to Phoenix.js (https://github.com/kasper/phoenix) configuration
 
 Link : https://github.com/narze/dotfiles/commit/1507bd9cc04e14f0448f2edb836d20d17bbe2e34#diff-53d3035ada7d767c828f55620e2f443a
+
+## Day 13 (June 15, 2020)
+
+Wash your hands CSS animation
+
+Thoughts :
+
+I want to copy Medium.com clapping button but found [Wash Hands](https://fontawesome.com/icons/hands-wash?style=solid).
+
+Learned :
+
+- CSS animations basic
+- CSS transform & translate
+- Drawing shape with CSS
+- Utilizing pseudo classes to clone shapes
+
+Link : https://codepen.io/narze/pen/mdVreJy
