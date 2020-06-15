@@ -175,6 +175,8 @@ Link : https://github.com/narze/dotfiles/commit/1507bd9cc04e14f0448f2edb836d20d1
 
 Wash your hands CSS animation
 
+![Giphy](https://media.giphy.com/media/XHYoptrb845wfxNL53/giphy.gif)
+
 Thoughts :
 
 I want to copy Medium.com clapping button but found [Wash Hands](https://fontawesome.com/icons/hands-wash?style=solid).
