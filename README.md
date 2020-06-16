@@ -189,3 +189,22 @@ Learned :
 - Utilizing pseudo classes to clone shapes
 
 Link : https://codepen.io/narze/pen/mdVreJy
+
+## Day 14 (June 16, 2020)
+
+Phoenix.js Visualizer
+
+![Cleanshot](https://cln.sh/XcNzgv)
+
+Thoughts :
+
+Day 14 of #100DaysOfCode : Learning Javascript class syntax 
+
+Try emulating Phoenix.js (macOS window manager) my plan is to make the same phoenix.js config file work both on macOS and in html!
+
+Learned : 
+
+- Javascript Class syntax
+- Using export keyword is harder than I think
+
+Link : https://github.com/narze/phoenix-visualizer
