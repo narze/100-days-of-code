@@ -111,7 +111,7 @@ Yesion (Cont.) : Add CSS dropdown menu
 
 ![Imgur](https://i.imgur.com/Aajsz7l.png)
 
-Thoughts : 
+Thoughts :
 Embedding div within anchor within div to get the highlight effect I want.
 
 Things I learned :
@@ -137,7 +137,7 @@ Cntr.css - CSS framework for centering things only
 
 ![Imgur](https://i.imgur.com/MU8JmOr.png)
 
-Thoughts : 
+Thoughts :
 
 I hate centering things on CSS, so I made a framework(?) out of them :joy
 
@@ -149,11 +149,11 @@ PokDeng (Thai Poker)
 
 ![Imgur](https://i.imgur.com/ukLsWb5.png)
 
-This pen got picked by CodePen team! 
+This pen got picked by CodePen team!
 
 ![Imgur](https://i.imgur.com/PJ8MuBA.png)
 
-Thoughts : 
+Thoughts :
 
 I will use this to teach non-tech colleagues how to code next week, so it should be as simple as possible, and fun!
 
@@ -198,13 +198,26 @@ Phoenix.js Visualizer
 
 Thoughts :
 
-Day 14 of #100DaysOfCode : Learning Javascript class syntax 
+Learning Javascript class syntax
 
 Try emulating Phoenix.js (macOS window manager) my plan is to make the same phoenix.js config file work both on macOS and in html!
 
-Learned : 
+Learned :
 
 - Javascript Class syntax
 - Using export keyword is harder than I think
 
 Link : https://github.com/narze/phoenix-visualizer
+
+## Day 15 (June 17, 2020)
+
+Learn Facebook Messenger Platform
+
+![Imgur](https://i.imgur.com/GLWEyXm.png)
+
+Thoughts :
+
+I am going to rebuild CoreMenu and integrate with Facebook Messenger. The Messenger Extension will help me connect the web app with users via Messenger chat.
+
+Link (Reference) : https://github.com/fbsamples/messenger-platform-samples/tree/master/webview
+
