@@ -221,3 +221,14 @@ I am going to rebuild CoreMenu and integrate with Facebook Messenger. The Messen
 
 Link (Reference) : https://github.com/fbsamples/messenger-platform-samples/tree/master/webview
 
+## Day 16 (June 18, 2020)
+
+Learn Next.js
+
+![Imgur](https://i.imgur.com/Ms28bne.png)
+
+Thoughts :
+
+Re-learn React by walking through [Next.js tutorial](https://nextjs.org/learn/)
+
+Link : https://github.com/narze/nextjs-blog
