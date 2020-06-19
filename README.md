@@ -232,3 +232,13 @@ Thoughts :
 Re-learn React by walking through [Next.js tutorial](https://nextjs.org/learn/)
 
 Link : https://github.com/narze/nextjs-blog
+
+## Day 17 (June 19, 2020)
+
+Learn Next.js (Cont.) - Building Blog
+
+![Imgur](https://i.imgur.com/TZKedMG.png)
+
+Thoughts :
+
+Learn more about pre-rendering, dynamic routes, and server side rendering
