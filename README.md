@@ -242,3 +242,19 @@ Learn Next.js (Cont.) - Building Blog
 Thoughts :
 
 Learn more about pre-rendering, dynamic routes, and server side rendering
+
+## Day 18 (June 20, 2020)
+
+Planck Keyboard
+
+![Imgur](https://i.imgur.com/2RzstVd.png)
+
+Thoughts :
+
+Getting hyped on my new keyboard case & keycaps, so I made one
+
+Learned :
+
+- Using CSS pseudo selector to add multiple borders to single element
+
+Link : https://codepen.io/narze/pen/WNrpbvp
