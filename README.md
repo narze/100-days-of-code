@@ -258,3 +258,14 @@ Learned :
 - Using CSS pseudo selector to add multiple borders to single element
 
 Link : https://codepen.io/narze/pen/WNrpbvp
+
+## Day 19 (June 21, 2020)
+
+Phoenix Visualizer (Cont.)
+
+![Imgur](https://i.imgur.com/j5Ne69t.png)
+
+Added Mocha test cases & setup TDD for [Phoenix Visualizer](https://github.com/narze/phoenix-visualizer)
+Also setup [Github Action](https://github.com/narze/phoenix-visualizer/actions) to automatically run the test on pushes
+
+Link : https://github.com/narze/phoenix-visualizer
