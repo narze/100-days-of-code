@@ -194,7 +194,7 @@ Link : https://codepen.io/narze/pen/mdVreJy
 
 Phoenix.js Visualizer
 
-![Cleanshot](https://cln.sh/XcNzgv)
+![Imgur](https://i.imgur.com/IR4E7qw.png)
 
 Thoughts :
 
