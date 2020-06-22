@@ -269,3 +269,13 @@ Added Mocha test cases & setup TDD for [Phoenix Visualizer](https://github.com/n
 Also setup [Github Action](https://github.com/narze/phoenix-visualizer/actions) to automatically run the test on pushes
 
 Link : https://github.com/narze/phoenix-visualizer
+
+## Day 20 (June 22, 2020)
+
+Phoenix Visualizer (Cont.)
+
+![Imgur](https://i.imgur.com/SlPvRZ5.png)
+
+Added Webpack, successfully inject [phoenix-web-adapter](https://github.com/narze/phoenix-visualizer/blob/master/src/phoenix-web-adapter.js) to use with Phoenix.js configuration. So it's now possible to use the same config file both on macOS and web!
+
+Link : https://github.com/narze/phoenix-visualizer
