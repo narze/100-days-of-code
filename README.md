@@ -320,6 +320,8 @@ Link : https://www.youtube.com/watch?v=AEBRXHp3Xq0
 
 Learn Next.js (Cont.) - Deploy on Vercel & Convert project to TypeScript
 
+![Imgur](https://i.imgur.com/fJKUf14.png)
+
 Thoughts :
 
 I took a 1 day break after hackathon, now back to learning mode.
