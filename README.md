@@ -279,3 +279,49 @@ Phoenix Visualizer (Cont.)
 Added Webpack, successfully inject [phoenix-web-adapter](https://github.com/narze/phoenix-visualizer/blob/master/src/phoenix-web-adapter.js) to use with Phoenix.js configuration. So it's now possible to use the same config file both on macOS and web!
 
 Link : https://github.com/narze/phoenix-visualizer
+
+## Day 21 (June 23, 2020)
+
+Phoenix Visualizer (Cont.)
+
+Added Vue.js into Webpack
+
+Thoughts :
+
+Tried creating new project using Vue CLI but failed on including phoenix.js config. So I have to manually add Vue into Webpack.
+
+Link : https://github.com/narze/phoenix-visualizer
+
+## Day 22 (June 24, 2020)
+
+Twm.js Proof of concept (Stupid Hackathon TH #4 Day 1)
+
+Link : https://www.youtube.com/watch?v=iA3jp_yfV8A
+
+## Day 23 (June 25, 2020)
+
+Twm.js Block mouse cursor on move (Stupid Hackathon TH #4 Day 2)
+
+Link : https://www.youtube.com/watch?v=FP1Laf4nyFc
+
+## Day 24 (June 26, 2020)
+
+Twm.js More sleek modals (Stupid Hackathon TH #4 Day 3)
+
+Link : https://www.youtube.com/watch?v=IErvDbOiRW8
+
+## Day 25 (June 27, 2020)
+
+Twm.js Completed (Stupid Hackathon TH #4 Last Day) - https://github.com/narze/twm.js
+
+Link : https://www.youtube.com/watch?v=AEBRXHp3Xq0
+
+## Day 26 (June 29, 2020)
+
+Learn Next.js (Cont.) - Deploy on Vercel & Convert project to TypeScript
+
+Thoughts :
+
+I took a 1 day break after hackathon, now back to learning mode.
+
+Link : https://narze-nextjs-blog.vercel.app/
