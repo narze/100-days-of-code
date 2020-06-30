@@ -327,3 +327,20 @@ Thoughts :
 I took a 1 day break after hackathon, now back to learning mode.
 
 Link : https://narze-nextjs-blog.vercel.app/
+
+## Day 27 (June 30, 2020)
+
+Make Time Tactics - Randomize tactics from [Make Time](http://maketimebook.com/) book
+
+![imgur](https://i.imgur.com/2A2Dx6N.png)
+
+Thoughts :
+
+I bought this book a week ago and loved it. I want to try several tactics in the book so I build a website to choose them for me.
+
+Learned :
+
+- Next.js TDD with Jest
+- Troubleshooting Vercel deployment
+
+Link : https://make-time-tactics.vercel.app
