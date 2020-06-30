@@ -341,6 +341,7 @@ I bought this book a week ago and loved it. I want to try several tactics in the
 Learned :
 
 - Next.js TDD with Jest
+- React Hooks
 - Troubleshooting Vercel deployment
 
 Link : https://make-time-tactics.vercel.app
