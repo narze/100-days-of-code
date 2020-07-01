@@ -345,3 +345,16 @@ Learned :
 - Troubleshooting Vercel deployment
 
 Link : https://make-time-tactics.vercel.app
+
+## Day 28 (Wednesday July 1, 2020)
+
+Make Time Tactics - Setup Cypress for e2e testing
+
+![imgur](https://i.imgur.com/qo7nCRz.png)
+
+Learned :
+
+- Setting up Cypress
+- [start-server-and-test](https://github.com/bahmutov/start-server-and-test)
+
+Link : https://github.com/narze/make-time-tactics/pull/1
