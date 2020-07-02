@@ -358,3 +358,15 @@ Learned :
 - [start-server-and-test](https://github.com/bahmutov/start-server-and-test)
 
 Link : https://github.com/narze/make-time-tactics/pull/1
+
+## Day 29 (Thursday July 2, 2020)
+
+Make Time Tactics - Add Tailwind.css
+
+![imgur](https://i.imgur.com/yezoKWJ.png)
+
+Learned :
+
+- Setup Tailwind CSS in Next.js
+
+Link : https://make-time-tactics.vercel.app
