@@ -2,6 +2,8 @@
 
 My take on #100DaysOfCode
 
+[View all entries](https://100daysofcode-narze.vercel.app/)
+
 ## Day 1 (June 1, 2020)
 
 Dev.to style profile header
@@ -370,3 +372,5 @@ Learned :
 - Setup Tailwind CSS in Next.js
 
 Link : https://make-time-tactics.vercel.app
+
+[View all entries](https://100daysofcode-narze.vercel.app/)
